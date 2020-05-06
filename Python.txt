@@ -2,5 +2,6 @@ Hlo!!
 we are now starting our training in Data Science using Python
 Excited!! ;)
 
+~Ritika 
 .
 .
